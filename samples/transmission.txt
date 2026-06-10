@@ -1,0 +1,28 @@
+MIRROR-VENDING PROTOCOL
+
+The operator found the vending machine behind the service corridor after the
+third stairwell repeated. It sold no food. Every slot held a small mirror in a
+paper sleeve, each sleeve printed with the same receipt number.
+
+When the operator inserted a coin, the monitor above the machine woke and
+displayed:
+
+  PLEASE CHOOSE THE VERSION THAT LEFT FIRST.
+
+Button A played static.
+Button B played a child voice counting backwards from a number the operator did
+not remember learning.
+Button C opened the return tray and delivered a warm key wrapped in black wire.
+
+The key did not fit any door in the corridor. It fit the reflection of a door in
+the mirror from slot B7. The operator turned it there. Somewhere behind the
+glass, a clerk said thank you in the operator's voice.
+
+The corridor lights went out one at a time. The vending machine printed a final
+receipt:
+
+  CHANGE DUE: ONE MEMORY
+  DISPENSED: ONE EXIT
+  REMAINING BALANCE: YOUR SHADOW
+
+The stairwell appeared again, now descending upward.
